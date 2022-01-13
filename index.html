@@ -111,7 +111,7 @@
                                 <p>Create wMCPC/wEGG liquidity pool on PancakeSwap</p>
                                 <p>Create wMCPC/CDS liquidity pool on ApeSwap</p>
                                 <p>Create wMCPC/wNYC liquidity pool on ApeSwap</p>
-                                <p>Create wMCPC/wEGG liquidity pool on PancakeSwap</p>
+                                <p>Create wMCPC/wEGG liquidity pool on ApeSwap</p>
                             </div>
                           </li>
                         </ul>
