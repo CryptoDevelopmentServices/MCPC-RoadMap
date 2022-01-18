@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name = "keywords" content = "Mobile Crypto Pay Coin, MCPC, Crypto, CDS, Crypto Development Services" />
     <meta name = "description" content = "Crypto Development Services" />
-	  
-    
+
+
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.cryptodevservices.com/" />
@@ -44,7 +44,7 @@
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><p>Q1 2022</p></h4>
-                                
+
                                 <p>Create wMCPC</p>
                                 <p>Allow <b>GOLDMEMBER</b> to help us with testing wMCPC</p>
                                 <p>Launch wMCPC</p>
@@ -55,6 +55,10 @@
                                 <p>Create wMCPC/BNB liquidity pool on pancakeswap</p>
                                 <p>List wMCPC on CoinPaprika</p>
                                 <p>Create wMCPC/BNB liquidity pool on apeswap</p>
+                                <p>Update MCPC core wallets</p>
+                                <p>Create MCPC Ledger app</p>
+                                <p>Create MCPC Trezor</p>
+                                <p>List wMCPC & MCPC on tip.cc</p>
                             </div>
                           </li>
                         </ul>
@@ -64,7 +68,7 @@
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><p>Q2 2022</p></h4>
-                                
+
                                 <p>List wMCPC on CoinGecko</p>
                                 <p>List wMCPC on CoinMarketCap</p>
                                 <p>List wMCPC social info, logo & price on bscscan</p>
@@ -73,6 +77,7 @@
                                 <p>Create wMCPC/USDT farm on YieldFields</p>
                                 <p>Create wMCPC/BTCB farm on YieldFields</p>
                                 <p>Create wMCPC/CDS farm on YieldFields</p>
+
                             </div>
                           </li>
                         </ul>
@@ -82,7 +87,7 @@
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><p>Q3 2022</p></h4>
-                                
+
                                 <p>Create wMCPC/BNB liquidity pool on 1inch</p>
                                 <p>List wMCPC on Defi-Dashboard Dex</p>
                                 <p>Create wMCPC/BUSD liquidity pool on 1inch</p>
@@ -99,7 +104,7 @@
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><p>Q4 2022</p></h4>
-                                
+
                                 <p>List wMCPC & MCPC on TxBit</p>
                                 <p>List wMCPC & MCPC on SouthXchange</p>
                                 <p>Marketing push wMCPC</p>
@@ -125,13 +130,13 @@
                       <a class="icon" href="https://discord.gg/xUZNT9Zzcp"><i class="fab fa-discord"></i></a>
                       <a class="icon" href="https://github.com/CryptoDevelopmentServices/Multi-Token_MetaMask-Connector"><i class="fab fa-github"></i></a>
                     </div>
-              
+
                     <div class="company-name">
-                      
+
                       <span style="color:#000">Created by <a href="https://www.cryptodevservices.com/" target="_blank">Crypto Development Services</a> <img src="./img/cds.png" width="20px"></span> <br>
                       <span style="color:#000">© Crypto Development Services, All rights reserved.</span>
                     </div>
-              
+
                   </div>
                 </footer>
             </div>
@@ -145,6 +150,6 @@
     <script src="slick/slick.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/templatemo-scripts.js"></script>
-    
+
   </body>
 </html>
