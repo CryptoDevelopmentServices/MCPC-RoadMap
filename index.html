@@ -49,16 +49,8 @@
                                 <p>Allow <b>GOLDMEMBER</b> to help us with testing wMCPC</p>
                                 <p>Launch wMCPC</p>
                                 <p>Create wMCPC MetaMask Connector</p>
-                                <p>Create wMCPC/BNB farm on YieldFields</p>
-                                <p>Create wMCPC/BUSD farm on YieldFields</p>
-                                <p>Marketing push wMCPC</p>
-                                <p>Create wMCPC/BNB liquidity pool on pancakeswap</p>
-                                <p>List wMCPC on CoinPaprika</p>
-                                <p>Create wMCPC/BNB liquidity pool on apeswap</p>
-                                <p>Update MCPC core wallets</p>
-                                <p>Create MCPC Ledger app</p>
-                                <p>Create MCPC Trezor</p>
-                                <p>List wMCPC & MCPC on tip.cc</p>
+                                
+                                
                             </div>
                           </li>
                         </ul>
@@ -69,14 +61,23 @@
                             <div class="list-steps__item-main">
                               <h4><p>Q2 2022</p></h4>
 
+                                <p>Create wMCPC/BNB farm on CryptoSwap</p>
+                                <p>Create wMCPC/BUSD farm on CryptoSwap</p>
+                                <p>Marketing push wMCPC</p>
+                                <p>Create wMCPC/BNB liquidity pool on pancakeswap</p>
+                                <p>List wMCPC on CoinPaprika</p>
+                                <p>Create wMCPC/BNB liquidity pool on apeswap</p>
+                                <p>Update MCPC core wallets</p>
+                                <p>Create MCPC Ledger app</p>
+                                <p>Create MCPC Trezor</p>
                                 <p>List wMCPC on CoinGecko</p>
                                 <p>List wMCPC on CoinMarketCap</p>
                                 <p>List wMCPC social info, logo & price on bscscan</p>
                                 <p>Create wMCPC/BUSD liquidity pool on pancakeswap</p>
                                 <p>Create wMCPC/BUSD liquidity pool on apeswap</p>
-                                <p>Create wMCPC/USDT farm on YieldFields</p>
-                                <p>Create wMCPC/BTCB farm on YieldFields</p>
-                                <p>Create wMCPC/CDS farm on YieldFields</p>
+                                <p>Create wMCPC/CST farm on CryptoSwap</p>
+                                <p>Create wMCPC/BTCB farm on CryptoSwap</p>
+                                <p>Create wMCPC/CDS farm on CryptoSwap</p>
 
                             </div>
                           </li>
@@ -92,9 +93,8 @@
                                 <p>List wMCPC on Defi-Dashboard Dex</p>
                                 <p>Create wMCPC/BUSD liquidity pool on 1inch</p>
                                 <p>Create wMCPC/CDS liquidity pool on 1inch</p>
-                                <p>Create wMCPC/FIELD farm on YieldFields</p>
-                                <p>Create wMCPC/wNYC farm on YieldFields</p>
-                                <p>Create wMCPC/wEGG farm on YieldFields</p>
+                                <p>Create wMCPC/wNYC farm on CryptoSwap</p>
+                                <p>Create wMCPC/wEGG farm on CryptoSwap</p>
                             </div>
                           </li>
                         </ul>
@@ -117,6 +117,7 @@
                                 <p>Create wMCPC/CDS liquidity pool on ApeSwap</p>
                                 <p>Create wMCPC/wNYC liquidity pool on ApeSwap</p>
                                 <p>Create wMCPC/wEGG liquidity pool on ApeSwap</p>
+                                <p>List wMCPC & MCPC on tip.cc</p>
                             </div>
                           </li>
                         </ul>
